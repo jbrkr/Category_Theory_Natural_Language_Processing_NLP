@@ -3,6 +3,8 @@
 
 List of papers and other resources at the intersection of Category Theory and NLP.
 
+For CT + ML, there's another great resource [here](https://github.com/bgavran/Category_Theory_Machine_Learning).
+
 Please feel free to PR or email me if you have anything to add - there's much more to put in, will build as I have the time.
 
 This will also be in a public Roam graph when they add more DBs/user.
