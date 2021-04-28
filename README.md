@@ -1,5 +1,12 @@
 # Category Theory + NLP (Natural Language Processing)
 
+
+List of papers and other resources at the intersection of Category Theory and NLP.
+
+Please feel free to PR or email me if you have anything to add - there's much more to put in, will build as I have the time.
+
+This will also be in a public Roam graph when they add more DBs/user.
+
 - Papers
 - People
 - Projects
