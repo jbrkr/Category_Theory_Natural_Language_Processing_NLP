@@ -16,10 +16,15 @@ This will also be in a public Roam graph when they add more DBs/user.
 
 
 ## Papers
+
 * [Category Theory approach to interoperability](https://arxiv.org/pdf/2005.06872v2.pdf)
   * Riccardo Del Gratta
   * 2020
 
+* [Incremental Monoidal Grammars](https://arxiv.org/abs/2001.02296)
+  * Dan Shiebler, Alexis Toumi, Mehrnoosh Sadrzadeh
+  * 2020
+ 
 * [Proceedings of the Sixth Workshop on Natural Language and Computer Science](https://www.aclweb.org/anthology/volumes/W19-11/)
   * Robin Cooper, Valeria de Paiva, Lawrence S. Moss (Editors)
   * 2019
@@ -108,6 +113,7 @@ This will also be in a public Roam graph when they add more DBs/user.
   * H. Andreka
   * T. Gergely
   * 1980
+
 
 
 ## Presentations
