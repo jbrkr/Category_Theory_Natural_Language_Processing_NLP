@@ -16,6 +16,10 @@ This will also be in a public Roam graph when they add more DBs/user.
 
 
 ## Papers
+* [A CCG-Based Version of the DisCoCat Framework](https://arxiv.org/abs/2105.07720)
+  * [Richie Yeung](https://twitter.com/richie_yeung)
+  * [Dimitri Kartsaklis](sites.google.com/site/dimkart/)
+  * 2021
 
 * [Category Theory approach to interoperability](https://arxiv.org/pdf/2005.06872v2.pdf)
   * Riccardo Del Gratta
