@@ -16,6 +16,14 @@ This will also be in a public Roam graph when they add more DBs/user.
 
 
 ## Papers
+* [Functorial Language Models](https://arxiv.org/abs/2103.14411)
+  * Alexis Toumi, Alex Koziell-Pipe
+  * 2021
+
+* [Functorial Language Games for Question Answering](https://arxiv.org/abs/2005.09439)
+* Giovanni de Felice (University of Oxford), Elena Di Lavore (Tallinn University of Technology), Mario Román (Tallinn University of Technology), Alexis Toumi (University of Oxford)
+* 2021
+
 * [A CCG-Based Version of the DisCoCat Framework](https://arxiv.org/abs/2105.07720)
   * [Richie Yeung](https://twitter.com/richie_yeung)
   * [Dimitri Kartsaklis](sites.google.com/site/dimkart/)
@@ -25,9 +33,22 @@ This will also be in a public Roam graph when they add more DBs/user.
   * Riccardo Del Gratta
   * 2020
 
+* [Quantum Natural Language Processing on Near-Term Quantum Computers](https://arxiv.org/abs/2005.04147)
+  * Konstantinos Meichanetzidis, Stefano Gogioso, Giovanni De Felice, Nicolò Chiappori, Alexis Toumi, Bob Coecke
+  * 2020
+
+* [Foundations for Near-Term Quantum Natural Language Processing](https://arxiv.org/abs/2012.03755)
+  * 2020
+  * Bob Coecke, Giovanni de Felice, Konstantinos Meichanetzidis, Alexis Toumi
+
+
 * [Incremental Monoidal Grammars](https://arxiv.org/abs/2001.02296)
   * Dan Shiebler, Alexis Toumi, Mehrnoosh Sadrzadeh
   * 2020
+
+* [Monads for hyperintensionality? A situation semantics for hyperintensional side effects](https://www.aclweb.org/anthology/W19-1104/)
+  * Luke Burke
+  * 2019
 
 * [Modelling Lexical Ambiguity with Density Matrices](https://www.aclweb.org/anthology/2020.conll-1.21.pdf)
   * Francois Meyer
@@ -45,10 +66,35 @@ This will also be in a public Roam graph when they add more DBs/user.
 * [The 16th Meeting on the Mathematics of Language](https://www.aclweb.org/anthology/W19-57.pdf)
   * 2019
 
+* [Internal Wiring of Cartesian Verbs and Prepositions](https://arxiv.org/abs/1811.05770)
+  * Bob Coecke
+  * Martha Lewis
+  * Dan Marsden
+  * 2018
+
+* [Towards Compositional Distributional Discourse Analysis](https://arxiv.org/abs/1811.03277v1)
+  *  Bob Coecke
+  *  Giovanni de Felice
+  *  Dan Marsden
+  *  Alexis Toumi
+  *  2018
 
 * [Sense Contextualization in a Dependency-Based Compositional Distributional Model](https://www.aclweb.org/anthology/W17-2601/)
   * Pablo Gamallo
   * 2017
+
+* [Interacting Conceptual Spaces I : Grammatical Composition of Concepts](https://arxiv.org/abs/1703.08314)
+  * 2017
+  * Joe Bolt, Bob Coecke, Fabrizio Genovese, Martha Lewis, Dan Marsden, Robin Piedeleu
+
+* [Ambiguity and Incomplete Information in Categorical Models of Language](https://arxiv.org/abs/1701.00660)
+  * Dan Marsden
+  * 2017
+
+* [Interacting Conceptual Spaces](https://arxiv.org/abs/1608.01402)
+  * Josef Bolt (Univesity of Oxford), Bob Coecke (Univesity of Oxford), Fabrizio Genovese (Univesity of Oxford), Martha Lewis (Univesity of Oxford), Daniel Marsden (Univesity of Oxford), Robin Piedeleu (Univesity of Oxford)
+  * 2016
+
 
 * [Graded Entailment for Compositional Distributional Semantics](https://arxiv.org/pdf/1601.04908.pdf)
   * Dea Bankova
@@ -122,15 +168,20 @@ This will also be in a public Roam graph when they add more DBs/user.
   * Edward Grefenstette
   * 2013
 
+
+* [Lambek vs. Lambek: Functorial vector space semantics and string diagrams for Lambek calculus](https://www.sciencedirect.com/science/article/pii/S0168007213000626)
+  * Bob Coecke
+  * Edward Grefenstette
+  * Mehrnoosh Sadrzadeh
+  * 2013
+
 * [SEM 2013: The Second Joint Conference on Lexical and Computational Semantics](https://www.aclweb.org/anthology/S13-1.pdf)
   * 2013
 
-* [A Comparison of Vector-based Representations for Semantic Composition]
+* [A Comparison of Vector-based Representations for Semantic Composition](https://www.aclweb.org/anthology/D12-1050/)
   * William Blacoe
   * Mirella Lapata
   * 2012
-
-
 
 * [A Unified Sentence Space for Categorical Distributional-Compositional Semantics: Theory and Experiments](https://www.aclweb.org/anthology/C12-2054/)
   * Dimitri Kartsaklis
@@ -143,8 +194,11 @@ This will also be in a public Roam graph when they add more DBs/user.
   * Mehrnoosh Sadrzadeh
   * 2011
 
-* [Monads for hyperintensionality? A situation semantics for hyperintensional side effects - ACL Anthology](https://www.aclweb.org/anthology/W19-1104/)
 
+
+* [Concrete Sentence Spaces for Compositional Distributional Models of Meaning]
+  * Edward Grefenstette, Mehrnoosh Sadrzadeh, Stephen Clark, Bob Coecke, Stephen Pulman
+  * 2011
 
 * [Mathematical Foundations for a Compositional Distributional Model of Meaning](https://arxiv.org/abs/1003.4394)
   * Mehrnoosh Sadrzadeh
