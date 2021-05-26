@@ -21,8 +21,8 @@ This will also be in a public Roam graph when they add more DBs/user.
   * 2021
 
 * [Functorial Language Games for Question Answering](https://arxiv.org/abs/2005.09439)
-* Giovanni de Felice (University of Oxford), Elena Di Lavore (Tallinn University of Technology), Mario Román (Tallinn University of Technology), Alexis Toumi (University of Oxford)
-* 2021
+  * Giovanni de Felice, Elena Di Lavore, Mario Román, Alexis Toumi
+  * 2021
 
 * [A CCG-Based Version of the DisCoCat Framework](https://arxiv.org/abs/2105.07720)
   * [Richie Yeung](https://twitter.com/richie_yeung)
@@ -95,14 +95,12 @@ This will also be in a public Roam graph when they add more DBs/user.
   * Josef Bolt (Univesity of Oxford), Bob Coecke (Univesity of Oxford), Fabrizio Genovese (Univesity of Oxford), Martha Lewis (Univesity of Oxford), Daniel Marsden (Univesity of Oxford), Robin Piedeleu (Univesity of Oxford)
   * 2016
 
-
 * [Graded Entailment for Compositional Distributional Semantics](https://arxiv.org/pdf/1601.04908.pdf)
   * Dea Bankova
   * Bob Coecke
   * Martha Lewis 
   * Dan Marsden
   * 2016
-
 
 * [A Vector Model for Type-Theoretical Semantics](https://www.aclweb.org/anthology/W16-1627/)
   * Konstantin Sokolov
@@ -168,7 +166,6 @@ This will also be in a public Roam graph when they add more DBs/user.
   * Edward Grefenstette
   * 2013
 
-
 * [Lambek vs. Lambek: Functorial vector space semantics and string diagrams for Lambek calculus](https://www.sciencedirect.com/science/article/pii/S0168007213000626)
   * Bob Coecke
   * Edward Grefenstette
@@ -193,8 +190,6 @@ This will also be in a public Roam graph when they add more DBs/user.
   * Edward Grefenstette
   * Mehrnoosh Sadrzadeh
   * 2011
-
-
 
 * [Concrete Sentence Spaces for Compositional Distributional Models of Meaning]
   * Edward Grefenstette, Mehrnoosh Sadrzadeh, Stephen Clark, Bob Coecke, Stephen Pulman
@@ -232,8 +227,8 @@ This will also be in a public Roam graph when they add more DBs/user.
   * 1989
 
 * [A Formal Computational Semantics and Pragmatics of Speech Acts](https://www.aclweb.org/anthology/C88-2152/)
-* Eric Werner
-* 1988
+  * Eric Werner
+  * 1988
 
 * [Issues in Relating Syntax and Semantics](https://www.aclweb.org/anthology/C88-1057/)
   * Daniel Jurafsky
