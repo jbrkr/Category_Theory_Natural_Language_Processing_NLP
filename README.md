@@ -16,6 +16,34 @@ This will also be in a public Roam graph when they add more DBs/user.
 
 
 ## Papers
+* [On embedding Lambek calculus into commutative categorial grammars](https://arxiv.org/abs/2005.10058)
+  * Sergey Slavnov
+  * Submitted: May 2020
+  * Newest: Nov 2021
+  
+* [Putting a Spin on Language: A Quantum Interpretation of Unary Connectives for Linguistic Applications](https://arxiv.org/abs/2004.04128)
+  * Adriana D. Correia (Utrecht University), Henk T. C. Stoof (Utrecht University), Michael Moortgat (Utrecht University)
+  * Submitted: Apr 2020
+  * Newest: Sep 2021
+
+* [An enriched category theory of language: from syntax to semantics](https://arxiv.org/abs/2106.07890)
+  * Tai-Danae Bradley, John Terilla, Yiannis Vlassopoulos
+  * Submitted: Jun 2021
+  * Newest: Nov 2021
+
+* [Language Modeling with Reduced Densities](https://arxiv.org/abs/2007.03834)
+  * Tai-Danae Bradley, Yiannis Vlassopoulos
+  * Submitted: Jul 2020
+  * Newest: Jun 2021
+
+* [Vector Space Semantics for Lambek Calculus with Soft Subexponentials](https://arxiv.org/abs/2111.11331)
+  * Lachlan McPheat, Hadi Wazni, Mehrnoosh Sadrzadeh
+  * Nov 2021
+
+* [The Logic for a Mildly Context-Sensitive Fragment of the Lambek-Grishin Calculus](https://arxiv.org/abs/2101.03634)
+  * Hiroyoshi Komatsu
+  * Jan 2021
+
 * [Functorial Language Models](https://arxiv.org/abs/2103.14411)
   * Alexis Toumi, Alex Koziell-Pipe
   * 2021
@@ -28,6 +56,19 @@ This will also be in a public Roam graph when they add more DBs/user.
   * [Richie Yeung](https://twitter.com/richie_yeung)
   * [Dimitri Kartsaklis](sites.google.com/site/dimkart/)
   * 2021
+
+* [Logical foundations for hybrid type-logical grammars](https://arxiv.org/abs/2009.10387)
+  * Richard Moot (TEXTE, LIRMM, CNRS), Symon Stevens-Guille
+  * Sep 2020
+
+* [A Frobenius Algebraic Analysis for Parasitic Gaps](https://arxiv.org/abs/2005.05639)
+  * Michael Moortgat, Mehrnoosh Sadrzadeh, Gijs Wijnholds
+  * Jul 2020
+
+* [Categorical Vector Space Semantics for Lambek Calculus with a Relevant Modality](https://arxiv.org/abs/2005.03074)
+  * Lachlan McPheat, Mehrnoosh Sadrzadeh, Hadi Wazni, Gijs Wijnholds
+  * Submitted: May 2020
+  * Newest: Dec 2020
 
 * [Category Theory approach to interoperability](https://arxiv.org/pdf/2005.06872v2.pdf)
   * Riccardo Del Gratta
@@ -70,6 +111,10 @@ This will also be in a public Roam graph when they add more DBs/user.
   * Bob Coecke
   * Martha Lewis
   * Dan Marsden
+  * 2018
+
+* [Translating and Evolving: Towards a Model of Language Change in DisCoCat](https://arxiv.org/abs/1811.11041)
+  * Tai-Danae Bradley (Graduate Center, CUNY), Martha Lewis (ILLC, University of Amsterdam), Jade Master (Dept. Mathematics, UC Riverside), Brad Theilman (Gentner Lab, UC San Diego)
   * 2018
 
 * [Towards Compositional Distributional Discourse Analysis](https://arxiv.org/abs/1811.03277v1)
