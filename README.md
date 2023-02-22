@@ -288,7 +288,15 @@ This will also be in a public Roam graph when they add more DBs/user.
   * T. Gergely
   * 1980
 
+## Theses
 
+* [Categorical Tools for Natural Language Processing](arxiv.org/abs/2212.06636)
+  * G. de Felice
+  * 2022
+
+* [Category Theory for Quantum Natural Language Processing](https://arxiv.org/abs/2212.06615)
+  * A. Toumi
+  * 2022
 
 ## Presentations
 * [Compositional distributional semantics for modelling natural language](https://www.youtube.com/watch?v=hTmKoHJw3Mg)
