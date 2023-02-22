@@ -288,6 +288,10 @@ This will also be in a public Roam graph when they add more DBs/user.
   * T. Gergely
   * 1980
 
+* [Categorial and Categorical Grammars](https://link.springer.com/chapter/10.1007/978-94-015-6878-4_11)
+  * J. Lambek
+  * 1988
+
 ## Theses
 
 * [Categorical Tools for Natural Language Processing](arxiv.org/abs/2212.06636)
