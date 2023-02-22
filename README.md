@@ -96,7 +96,7 @@ This will also be in a public Roam graph when they add more DBs/user.
   * Martha Lewis
   * 2019
  
- * [Dependently-Typed Montague Semantics in the Proof Assistant Agda-flat](https://www.aclweb.org/anthology/W19-5704/)
+* [Dependently-Typed Montague Semantics in the Proof Assistant Agda-flat](https://www.aclweb.org/anthology/W19-5704/)
   * Colin Zwanziger
   * 2019
  
@@ -236,7 +236,7 @@ This will also be in a public Roam graph when they add more DBs/user.
   * Mehrnoosh Sadrzadeh
   * 2011
 
-* [Concrete Sentence Spaces for Compositional Distributional Models of Meaning]
+* [Concrete Sentence Spaces for Compositional Distributional Models of Meaning](https://arxiv.org/abs/1101.0309)
   * Edward Grefenstette, Mehrnoosh Sadrzadeh, Stephen Clark, Bob Coecke, Stephen Pulman
   * 2011
 
@@ -288,7 +288,19 @@ This will also be in a public Roam graph when they add more DBs/user.
   * T. Gergely
   * 1980
 
+* [Categorial and Categorical Grammars](https://link.springer.com/chapter/10.1007/978-94-015-6878-4_11)
+  * J. Lambek
+  * 1988
 
+## Theses
+
+* [Categorical Tools for Natural Language Processing](arxiv.org/abs/2212.06636)
+  * G. de Felice
+  * 2022
+
+* [Category Theory for Quantum Natural Language Processing](https://arxiv.org/abs/2212.06615)
+  * A. Toumi
+  * 2022
 
 ## Presentations
 * [Compositional distributional semantics for modelling natural language](https://www.youtube.com/watch?v=hTmKoHJw3Mg)
